@@ -1,13 +1,42 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on what&#39;s good</title>
+    <title>Categories on blog.raidsrc.me</title>
     <link>https://blog.raidsrc.me/categories/</link>
-    <description>Recent content in Categories on what&#39;s good</description>
+    <description>Recent content in Categories on blog.raidsrc.me</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
 	<atom:link href="https://blog.raidsrc.me/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+    <item>
+      <title>What&#39;s Good</title>
+      <link>https://blog.raidsrc.me/posts/whats-good/</link>
+      <pubDate>Fri, 07 Jan 2022 12:38:04 -0800</pubDate>
+      
+      <guid>https://blog.raidsrc.me/posts/whats-good/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;abcd&lt;/strong&gt;
+&lt;em&gt;abcd&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;asdfasdfasdfasdf
+#sup
+##sup
+###sup&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;a&lt;/li&gt;
+&lt;li&gt;b&lt;/li&gt;
+&lt;li&gt;c&lt;/li&gt;
+&lt;/ol&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;public static void main(String[] args) {
+  System.out.println(&amp;quot;yo&amp;quot;);
+}
+&lt;/code&gt;&lt;/pre&gt;</description>
+    </item>
+    
+    
     
     
     
@@ -17,7 +46,10 @@
       <pubDate>Fri, 07 Jan 2022 09:52:56 -0800</pubDate>
       
       <guid>https://blog.raidsrc.me/posts/my-first-post/</guid>
-      <description>&lt;p&gt;sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup sup&lt;/p&gt;
+      <description>&lt;p&gt;Testing testing testing&lt;/p&gt;
+&lt;p&gt;I am a hugo master&lt;/p&gt;
+&lt;p&gt;Not really&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://gohugo.io&#34;&gt;gohugo.io&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
